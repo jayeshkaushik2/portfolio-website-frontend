@@ -1,0 +1,16 @@
+#SocialLinksDiv {
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #e7e7e7;
+    padding: 10px;
+}
+
+.p-links {
+    color: #646464;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.a-link {
+    font-weight: normal;
+}

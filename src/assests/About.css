@@ -1,0 +1,46 @@
+#aboutDiv {
+    background: #e7e7e7;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#likes {
+    background-color: #e7e7e7;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+#aboutText {
+    color: #646464;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#more {
+    display: none;
+}
+
+.showBtn {
+    border: none;
+    background: none;
+    color: #0d6efd;
+
+}
+
+#aboutEdit {
+    font-size: 14px;
+    float: right;
+    font-weight: bold;
+}
+
+#rowId {
+    width: 100%;
+}
+
+#spans {
+    color: rgb(0, 123, 253);
+    font-size: 25px;
+}

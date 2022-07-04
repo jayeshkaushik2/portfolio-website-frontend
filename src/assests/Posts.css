@@ -1,0 +1,99 @@
+#postsDiv {
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #e7e7e7;
+    padding: 10px;
+}
+
+#postText {
+    color: #646464;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#postRow {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.postdiv {
+    padding: 0px;
+    margin-bottom: 15px;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    background: #617786;
+    color: white;
+}
+
+.title {
+    margin-top: 10px;
+}
+
+.heading {
+    padding: 5px;
+}
+
+.viewPostLink {
+    position: inherit;
+    display: flex;
+    color: #314552;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.postimage {
+    width: 100%;
+    object-fit: contain;
+    margin: 0px;
+    max-height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#columns {
+    margin-top: 5px;
+}
+
+.postPhoto {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.card {
+    border-radius: 15px;
+    width: 100%;
+    min-width: 300px;
+    /* max-width: 300px; */
+}
+
+#loadMore {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+
+.centeredLink {
+    text-decoration: none;
+    left: 50%;
+    top: 38%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    font-weight: 500;
+}

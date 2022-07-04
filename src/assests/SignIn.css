@@ -1,0 +1,53 @@
+.container-signin {
+    margin: 0px;
+    height: 100vh;
+    background-color: #617786;
+    margin-right: auto;
+    position: absolute;
+    width: 100%;
+    padding: 10px;
+}
+
+
+.sign-in-form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    background-color: #314552;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 15%;
+    color: white;
+    height: 350px;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    max-width: 400px;
+}
+
+.profileidimg {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.form-input {
+    margin: 15px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Btns {
+    width: 49%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}

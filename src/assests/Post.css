@@ -1,0 +1,76 @@
+.main-post-container {
+    margin: 0px;
+    height: 100vh;
+    background-color: #617786;
+    margin-right: auto;
+    position: absolute;
+    width: 100%;
+}
+
+
+.post-div {
+    background-color: #314552;
+    color: white;
+}
+
+.header {
+    padding: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bg-blue {
+    color: rgb(28, 156, 253);
+}
+
+.image-div {
+    min-height: 195px;
+}
+
+.post-img {
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
+    padding: 10px;
+    height: fit-content;
+}
+
+.flex-footer {
+    display: flex;
+}
+
+.post-info {
+    font-size: 10px;
+}
+
+.like-div {
+    width: 50%;
+    text-align: left;
+}
+
+.comment-div {
+    width: 50%;
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+    font-size: 18px;
+}
+
+.like-btn {
+    background: none;
+    color: white;
+    border: none;
+}
+
+.loading-gif {
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

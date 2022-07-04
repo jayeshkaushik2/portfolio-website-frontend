@@ -1,0 +1,45 @@
+#SkillsAndProjectDiv {
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #e7e7e7;
+    padding: 10px;
+}
+
+#skillsandprojectText {
+    color: #646464;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#projectLink {
+    text-decoration-line: none;
+}
+
+#projectDate {
+    float: right;
+    margin-top: -30px;
+}
+
+#description {
+    margin-left: 10px;
+}
+
+#remainDescription {
+    display: none;
+}
+
+.showBtn {
+    border: none;
+    background: none;
+    color: #0d6efd;
+}
+
+.skills{
+    background: #617786;
+    padding: 2px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
